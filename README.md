@@ -11,6 +11,12 @@ On mode one (it is default) , you can decrease or increase **brightness** of LED
 On mode two ("How it works" GIF) , you can decrease or increase **speed** of blinking <br>
 
 ## Circuit Diagram
+
+What parts do you need: <br>
+   Arduino Nano <br>
+   TIP-122 MOSFET <br>
+   KY-040 Encoder <br>
+   
 ![](/images/led.png "Circuit Diagram") <br>
 
 ### **Encoder Pins:**

@@ -18,7 +18,7 @@ On mode two ("How it works" GIF) , you can decrease or increase **speed** of bli
    D3 - DT <br>
    D4 - CLK <br>
    GND - GND <br>
-   +  -  5V <br>
+   "+"  -  5V <br>
 ### **MOSFET Pins:**
   Base - D11 <br>
   Collector - LED Strip Ground <br>

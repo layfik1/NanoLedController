@@ -21,7 +21,7 @@ unsigned long previousMillis = 0;
 Encoder enc(CLK, DT, SW);
 
 void setup() {
-  //configure pin 11 as OUTPUT //обозначаем пин 11 за OUPUT
+  //configure pin 11 as OUTPUT //обозначаем пин 11 за OUTPUT
   pinMode(LEDP,OUTPUT);
   //init serial port //иниацилизируем serial порт
   Serial.begin(9600);

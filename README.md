@@ -33,4 +33,4 @@ What parts do you need: <br>
   VIN - 12V in Vcc <br>
   GND - 12V in Ground <br>
   
-You can dm me in Discrod (layfik1) if i made mistakes in this diagram.
+You can dm me in Discord (layfik1) if i made mistakes in this diagram.
